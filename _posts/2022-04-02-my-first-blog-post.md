@@ -8,4 +8,4 @@ This is what all this looks like!
 This is what a quote looks like: 
 > This is the quote
 
-[See this link](_posts/2021-03-08-blog-post-title-from-file-name.md)
+[See this link](./2021-03-08-blog-post-title-from-file-name.md)
